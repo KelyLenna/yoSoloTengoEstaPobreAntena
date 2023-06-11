@@ -1,0 +1,15 @@
+
+  .header {
+    background: url(../images/Header83.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 55vh;
+  }
+
+  .header .navbar {
+    background-color: transparent !important;
+  }
+
+  .custom-navbar {
+    top: 0 !important;
+  }
+
